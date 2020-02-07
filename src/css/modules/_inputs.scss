@@ -1,0 +1,29 @@
+
+// All inputs
+input  {
+    padding: 1rem 1rem;
+    border-radius: 2rem;
+    border: 3px solid transparent;
+    &:focus {
+        outline: none;
+    }
+}
+
+// Inputs
+input[type=text],
+input[type=email],
+input[type=password] {
+    background-color: $color_gray;
+    &:focus {
+        background-color: #fff;
+        border: 3px solid $color_gray;
+    }
+}
+
+// Button 
+input[type=submit] {
+    cursor: pointer;
+    padding: 1rem 1rem;
+    background-color: $color_primary;
+    color: #fff;
+}

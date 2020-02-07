@@ -1,0 +1,28 @@
+
+// Variables
+$color_primary: #49306B;
+$color_gray: rgb(241, 241, 241);
+$transition: all 0.1s ease-in-out;
+$animation_move_length: 60px;
+$animation_duration: 0.4s;
+
+// General rules
+html {
+    height: 100%;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    height: 100%;
+    font-family: 'Montserrat';
+    overflow: hidden;
+}
