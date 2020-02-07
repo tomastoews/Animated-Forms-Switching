@@ -2,4 +2,4 @@
 Animated Forms Switching Transitions
 
 # Live Demo
-https://animated-forms-switching.netlify.com/
+https://www.projects.tomastoews.de/animated-forms-switching
